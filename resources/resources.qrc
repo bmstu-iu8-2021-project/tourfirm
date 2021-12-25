@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>leftImage</file>
+        <file>rightImage</file>
+        <file>plane</file>
+        <file>sadEmoji</file>
+        <file>symbolA</file>
+        <file>paint</file>
+        <file>exit</file>
+        <file>brush</file>
+        <file>brush2</file>
+        <file>button</file>
+    </qresource>
+</RCC>
